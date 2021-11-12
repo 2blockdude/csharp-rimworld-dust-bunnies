@@ -80,7 +80,7 @@
   <!--================================================ -->
 
   <ThingDef ParentName="BaseDustBunny">
-    <defName>Dust_Bunny</defName>
+    <defName>DustBunny</defName>
     <label>dust bunny</label>
     <description>Little dust bunny. Made from dust. Made from bunny.</description>
     <statBases>
@@ -92,9 +92,9 @@
   </ThingDef>
 
   <PawnKindDef ParentName="DustBunnyBase">
-    <defName>Dust_Bunny</defName>
+    <defName>DustBunny</defName>
     <label>dust bunny</label>
-    <race>Dust_Bunny</race>
+    <race>DustBunny</race>
     <canArriveManhunter>false</canArriveManhunter>
     <lifeStages>
       <li>
