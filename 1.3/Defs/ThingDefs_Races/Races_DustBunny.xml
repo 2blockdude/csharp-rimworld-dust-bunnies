@@ -80,7 +80,7 @@
   <!--================================================ -->
 
   <ThingDef ParentName="BaseDustBunny">
-    <defName>DustBunny</defName>
+    <defName>Dust_Bunny</defName>
     <label>dust bunny</label>
     <description>Little dust bunny. Made from dust. Made from bunny.</description>
     <statBases>
@@ -99,12 +99,12 @@
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Hare/Hare</texPath>
+          <texPath>DustBunny/Bunny/Bunny</texPath>
           <drawSize>1</drawSize>
           <color>(180,180,180)</color>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Hare/Dessicated_Hare</texPath>
+          <texPath>DustBunny/Bunny/Dessicated_Bunny</texPath>
           <drawSize>1.0</drawSize>
         </dessicatedBodyGraphicData>
       </li>

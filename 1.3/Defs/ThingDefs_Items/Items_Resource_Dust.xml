@@ -6,7 +6,7 @@
     <label>dust</label>
     <description>Old dusty dust. Made from dust.</description>
     <graphicData>
-      <texPath>Things/Item/Resource/Steel</texPath>
+      <texPath>DustBunny/Item/Resource/Dust</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <statBases>
