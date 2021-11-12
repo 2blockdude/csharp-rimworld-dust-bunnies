@@ -8,7 +8,8 @@
       <MarketValue>10</MarketValue>
       <ComfyTemperatureMin>-30</ComfyTemperatureMin>
       <Flammability>1.0</Flammability>
-      <LeatherAmount>0</LeatherAmount>
+      <LeatherAmount>50</LeatherAmount>
+      <MeatAmount>0</MeatAmount>
       <ToxicSensitivity>0.0</ToxicSensitivity>
     </statBases>
     <tools>
@@ -36,7 +37,7 @@
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <baseBodySize>0.2</baseBodySize>
       <!-- <foodType>VegetarianRoughAnimal</foodType> -->
-      <leatherDef>Leather_Light</leatherDef>
+      <leatherDef>Dust</leatherDef>
       <gestationPeriodDays>5.661</gestationPeriodDays>
 
       <baseHungerRate>0.0</baseHungerRate>
@@ -80,7 +81,7 @@
 
   <ThingDef ParentName="BaseDustBunny">
     <defName>DustBunny</defName>
-    <label>dustbunny</label>
+    <label>dust bunny</label>
     <description>Little dust bunny. Made from dust. Made from bunny.</description>
     <statBases>
       <ComfyTemperatureMin>-55</ComfyTemperatureMin>
@@ -107,32 +108,6 @@
           <drawSize>1.0</drawSize>
         </dessicatedBodyGraphicData>
       </li>
-      <!-- <li>
-        <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Hare/Hare</texPath>
-          <drawSize>1.25</drawSize>
-          <color>(180,180,180)</color>
-        </bodyGraphicData>
-        <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Hare/Dessicated_Hare</texPath>
-          <drawSize>1.25</drawSize>
-        </dessicatedBodyGraphicData>
-      </li>
-      <li>
-        <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Hare/Hare</texPath>
-          <drawSize>1.5</drawSize>
-          <color>(180,180,180)</color>
-          <shadowData>
-            <volume>(0.32, 0.35, 0.32)</volume>
-            <offset>(0,0,0)</offset>
-          </shadowData>
-        </bodyGraphicData>
-        <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Hare/Dessicated_Hare</texPath>
-          <drawSize>1.5</drawSize>
-        </dessicatedBodyGraphicData>
-      </li> -->
     </lifeStages>
   </PawnKindDef>
   
