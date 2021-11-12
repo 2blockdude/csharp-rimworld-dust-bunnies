@@ -20,7 +20,7 @@
 
 	<RecipeDef>
 		<defName>MakeDustBunny</defName>
-		<label>forge, from the depths of hell, a dust bunny</label>
+		<label>make a dust bunny</label>
 		<description>Make a dust bunny. Made from dust.</description>
 		<jobString>Making Dust Bunny.</jobString>
         <workerClass>DustBunnies.Recipe_SpawnDustBunny</workerClass>
