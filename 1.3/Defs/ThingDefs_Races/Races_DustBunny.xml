@@ -92,9 +92,9 @@
   </ThingDef>
 
   <PawnKindDef ParentName="DustBunnyBase">
-    <defName>DustBunny</defName>
-    <label>dustbunny</label>
-    <race>DustBunny</race>
+    <defName>Dust_Bunny</defName>
+    <label>dust bunny</label>
+    <race>Dust_Bunny</race>
     <canArriveManhunter>false</canArriveManhunter>
     <lifeStages>
       <li>
