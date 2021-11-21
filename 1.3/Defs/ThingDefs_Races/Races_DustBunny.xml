@@ -36,7 +36,7 @@
     <race>
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <baseBodySize>0.2</baseBodySize>
-      <!-- <foodType>VegetarianRoughAnimal</foodType> -->
+      <foodType>Kibble</foodType>
       <leatherDef>Dust</leatherDef>
       <gestationPeriodDays>5.661</gestationPeriodDays>
 
