@@ -99,13 +99,13 @@
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>DustBunny/Bunny/Bunny</texPath>
-          <drawSize>1</drawSize>
+          <texPath>DustBunny/Bunny/Dust_Bunny</texPath>
+          <drawSize>1.5</drawSize>
           <color>(180,180,180)</color>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>DustBunny/Bunny/Dessicated_Bunny</texPath>
-          <drawSize>1.0</drawSize>
+          <texPath>DustBunny/Bunny/Dessicated_Dust_Bunny</texPath>
+          <drawSize>1.5</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
